@@ -18,3 +18,4 @@ C:\Users\rwayb\Documents\Projects\WordCounter\obj\Debug\net9.0-windows\refint\Wo
 C:\Users\rwayb\Documents\Projects\WordCounter\obj\Debug\net9.0-windows\WordCounter.pdb
 C:\Users\rwayb\Documents\Projects\WordCounter\obj\Debug\net9.0-windows\WordCounter.genruntimeconfig.cache
 C:\Users\rwayb\Documents\Projects\WordCounter\obj\Debug\net9.0-windows\ref\WordCounter.dll
+C:\Users\rwayb\Documents\Projects\WordCounter\obj\Debug\net9.0-windows\WordCounter.sourcelink.json

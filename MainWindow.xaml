@@ -9,9 +9,9 @@
     <WrapPanel>
         <TextBox x:Name="tbxFileName" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Select File..." VerticalAlignment="Top" Width="300"/>
         <Button x:Name="btnFileDialog" Content="Browse" HorizontalAlignment="Left" Margin="10 9,0,0" VerticalAlignment="Top" Width="60" Click="btnFileDialog_Click"/>
-        <TextBox x:Name="tbxDisplay" TextWrapping="Wrap" Text="TextBox" Margin="10,10,10,10" Width="380" Height="200" IsReadOnly="True"/>
+        <TextBox x:Name="tbxDisplay" TextWrapping="Wrap" Text="" Margin="10,10,10,10" Width="380" Height="200" IsReadOnly="True"/>
         <ComboBox x:Name="cbxWordSelect" IsEnabled="False" SelectedValuePath="Key" Margin="10,5,0,5" Width="120" SelectionChanged="cbxWordSelect_SelectionChanged"/>
-        <TextBox x:Name="tbxWordCount" TextWrapping="NoWrap"  Text="TextBox" Width="80" Height="20" Margin="5,0,0,0" IsReadOnly="True"/>
+        <TextBox x:Name="tbxWordCount" TextWrapping="NoWrap"  Text="" Width="80" Height="20" Margin="5,0,0,0" IsReadOnly="True"/>
         
     </WrapPanel>
 </Window>
